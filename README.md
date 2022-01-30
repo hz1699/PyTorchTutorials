@@ -1,5 +1,11 @@
 # PyTorch Tutorials
 
+#Forked from GITHUB
+#Editted by Haozhe
+#Note
+
+To use this pytorch tutorials, we need activate the deeplearning enviornment in the cluster. My research environment used tensorflow.
+
 Welcome to the PyTorch tutorials for the Duke University [+Data Science](https://plus.datascience.duke.edu/) program!
 These materials are meant to accompany the +Data Science [In-Person Learning Experiences](https://plus.datascience.duke.edu/learn-ds) and [AI for Everyone course](https://plus.datascience.duke.edu/announcements/new-spring-2020-class-offering-training-ai-all-duke-students), as well as the Duke [Introduction to Machine Learning Coursera](https://www.coursera.org/learn/machine-learning-duke).
 Completion of the coding exercises provided here is not required, but we highly encourage it!
